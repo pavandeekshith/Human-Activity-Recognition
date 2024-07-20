@@ -36,5 +36,5 @@ Utilize apps like `Physics Toolbox Suite` from your smartphone to collect your d
 * Ensure the phone is in the same alignment during the activity as changing the alignment will change the data collected and will affect the model's performance. 
 * Ensure to have atleast 10s of data per file for training. As the data is collected at 50Hz, you will have 500 data samples.
 
-### **Acknowledgement**
+# Acknowledgement
 This project was done as part of the Machine Learning course at IIT Gandhinagar, under [Prof. Nipun Batra](https://nipunbatra.github.io/).
